@@ -1,0 +1,1 @@
+This repository includes the files for the structure of the database for the client Soundgood Music School. The files include generated data and the framework with all specifications for the database.
