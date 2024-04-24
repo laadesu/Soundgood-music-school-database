@@ -1,1 +1,1 @@
-This repository includes the files for the structure of the database for the client Soundgood Music School. The files include generated data and the framework with all specifications for the database.
+This repository includes the files for the database framework for the client Soundgood Music School. The files "DatabaseFramework" includes the SQL code for the entire structure of the schools database with all the specifications. The files named "query" and "queryresult" include different queries to extract specific infomration and the results of the respective queries. 
